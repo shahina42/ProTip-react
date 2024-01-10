@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(48, 48, 48);
+}
+
+
+.right {
+  display: flex;
+  width: 200px;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.page{
+ 
+
+
+display: flex;
+justify-content: center;
+align-items: center;
+  
+}
